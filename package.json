@@ -1,9 +1,9 @@
 {
-  "name": "gatsby-starter-default",
+  "name": "devchat.life",
   "private": true,
-  "description": "A simple starter to get up and developing quickly with Gatsby",
+  "description": "An adhoc, no agenda chat that is open to all developers",
   "version": "0.1.0",
-  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "author": "Chris Ball <chris@echobind.com>",
   "dependencies": {
     "gatsby": "^2.13.31",
     "gatsby-image": "^2.2.6",
